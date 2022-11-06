@@ -1,4 +1,4 @@
-module github.com/xrfang/fxml
+module github.com/davidrenne/fxml
 
 go 1.17
 
